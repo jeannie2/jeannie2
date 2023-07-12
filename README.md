@@ -1,5 +1,6 @@
 <div align="center" style="background-color: black">
-<img align="center" alt="Coding" width="400" src=
+  
+<img align="center" alt="Coding" width="300" src=
 "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1a293eTN0ejIwbzRzbDdoZjR0cTNlZjZueXJvdm5yaDF5d3lheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLhzRkRX1bQQBPi/giphy.gif"> 
 <br/>
 <br/>
