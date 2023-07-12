@@ -1,6 +1,6 @@
 <div align="center" style="background-color: black">
 
-<img align="center" alt="Coding" width="400" src="https://i.giphy.com/media/yiawSADey0WJi/giphy.webp"> 
+<img align="center" alt="Coding" width="200" src="https://i.giphy.com/media/yiawSADey0WJi/giphy.webp"> 
 <br/>
 <br/>
 <table><tr><td valign="top" width="100%">
