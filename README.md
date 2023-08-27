@@ -25,7 +25,7 @@
 <ul>
 <li> <a href="https://github.com/jeannie2/project-1">Project 1: Word Pop (STT game)</a></li>
 <li> <a href="https://github.com/jeannie2/project-2">Project 2: Art Tunnel</a></li>
-<li> <a href="https://github.com/jeannie2/project3">Project 3: FBI Wanted</a></li>
+<li> <a href="https://github.com/jeannie2/project3">Project 3</a></li>
 <li> <a href="https://github.com/jeannie2/project-4">Project 4: Cheer Cards</a></li>
 <li> <a href="https://github.com/jeannie2/3d-website">3d website</a></li>
 <li> <a href="https://github.com/jeannie2/mern-url-shortener-frontend">MERN link shortener</a></li>
