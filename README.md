@@ -31,6 +31,7 @@
 <li> <a href="https://github.com/jeannie2/mern-url-shortener-frontend">MERN link shortener</a></li>
 <li> <a href="https://github.com/jeannie2/React-Map-GL">React Map GL</a></li>
 <li> <a href="https://github.com/jeannie2/e-commerce">E-commerce</a></li>
+<li> <a href="https://github.com/jeannie2/volunteering-frontend">Web Scraping project</a></li>
 </ul>
 </td></tr></table>
 <br />
