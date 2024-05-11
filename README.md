@@ -25,7 +25,6 @@
 <ul>
 <li> <a href="https://github.com/jeannie2/project-1">Bootcamp Project 1: Word Pop (STT game)</a></li>
 <li> <a href="https://github.com/jeannie2/project-2">Bootcamp Project 2: Art Tunnel</a></li>
-<li> <a href="https://github.com/jeannie2/project3">Bootcamp Project 3</a></li>
 <li> <a href="https://github.com/jeannie2/3d-website">3d website</a></li>
 <li> <a href="https://github.com/jeannie2/React-Map-GL">React Map GL</a></li>
 <li> <a href="https://github.com/jeannie2/volunteering-frontend">Web scraping project</a></li>
