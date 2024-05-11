@@ -27,7 +27,6 @@
 <li> <a href="https://github.com/jeannie2/project-2">Bootcamp Project 2: Art Tunnel</a></li>
 <li> <a href="https://github.com/jeannie2/3d-website">3d website</a></li>
 <li> <a href="https://github.com/jeannie2/React-Map-GL">React Map GL</a></li>
-<li> <a href="https://github.com/jeannie2/volunteering-frontend">Web scraping project</a></li>
 </ul>
 </td></tr></table>
 <br />
