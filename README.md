@@ -26,14 +26,9 @@
 <li> <a href="https://github.com/jeannie2/project-1">Project 1: Word Pop (STT game)</a></li>
 <li> <a href="https://github.com/jeannie2/project-2">Project 2: Art Tunnel</a></li>
 <li> <a href="https://github.com/jeannie2/project3">Project 3</a></li>
-<li> <a href="https://github.com/jeannie2/project-4">Project 4: Cheer Cards</a></li>
 <li> <a href="https://github.com/jeannie2/3d-website">3d website</a></li>
-<li> <a href="https://github.com/jeannie2/mern-url-shortener-frontend">MERN link shortener</a></li>
 <li> <a href="https://github.com/jeannie2/React-Map-GL">React Map GL</a></li>
-<li> <a href="https://github.com/jeannie2/e-commerce">E-commerce</a></li>
 <li> <a href="https://github.com/jeannie2/volunteering-frontend">Web scraping project</a></li>
-<li> <a href="https://uysn6n.csb.app/">A-Frame</a></li>
-<li> <a href="https://threejs.jeannie2.repl.co/">Threex.text (three.js)</a></li>  
 </ul>
 </td></tr></table>
 <br />
