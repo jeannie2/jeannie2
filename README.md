@@ -21,10 +21,6 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a> 
 </div>
 
-<h4>Featured projects:</h1>
-<ul>
-<li> <a href="https://github.com/jeannie2/project-1">Bootcamp Project 1: Word Pop (STT game)</a></li>
-<li> <a href="https://github.com/jeannie2/project-2">Bootcamp Project 2: Art Tunnel</a></li>
 
 </ul>
 </td></tr></table>
