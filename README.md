@@ -3,7 +3,7 @@
 "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGR1a293eTN0ejIwbzRzbDdoZjR0cTNlZjZueXJvdm5yaDF5d3lheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLhzRkRX1bQQBPi/giphy.gif"> 
 <br/>
 <br/>
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="100%"  style="padding: 0">
 <div align="center" width="100%" style="padding: 0; margin: 0">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
