@@ -13,6 +13,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a> 
 <a href="https://www.tailwindcss.com/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
+<a href="https://vuejs.org/" target="_blank"><img width="40px" style="margin: 0px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="Vue" height="40" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img width="40px" style="margin: 0px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
